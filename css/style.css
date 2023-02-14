@@ -143,6 +143,16 @@ body {
             white 360px,
             white 370px);
 }
+.section-5 {
+    height: 600px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: repeating-linear-gradient(45deg,
+            #b3edff,
+            #b3edff 250px,
+            white 360px,
+            white 370px);
+}
 
 ul li {
     text-align: left;
